@@ -89,7 +89,7 @@ chương thấy tắc ở đâu, đó là thông tin quý nhất.
 
 ## Giấy phép
 
-Nội dung sách: [CC BY-NC-ND 4.0](./LICENSE) — miễn phí đọc và chia sẻ cho mục đích
+Nội dung sách: [CC BY-NC-ND 4.0](./LICENSE.md) — miễn phí đọc và chia sẻ cho mục đích
 học tập, **không dùng cho mục đích thương mại**, không phát hành bản đã sửa đổi hay
 bản dịch mà chưa xin phép.
 
