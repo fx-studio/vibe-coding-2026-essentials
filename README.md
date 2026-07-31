@@ -2,7 +2,7 @@
 
 **Tư duy, quy trình và kỹ thuật cho Tester, PM, BA — người làm IT không viết code**
 
-[![License: CC BY-NC-ND 4.0](https://img.shields.io/badge/License-CC%20BY--NC--ND%204.0-lightgrey.svg)](./LICENSE)
+[![License: CC BY-NC-ND 4.0](https://img.shields.io/badge/License-CC%20BY--NC--ND%204.0-lightgrey.svg)](./LICENSE.md)
 [![PDF](https://img.shields.io/badge/T%E1%BA%A3i-PDF-c2410c.svg)](../../releases/latest)
 [![EPUB](https://img.shields.io/badge/T%E1%BA%A3i-EPUB-1a5fb4.svg)](../../releases/latest)
 
@@ -10,9 +10,7 @@
   <img src="cover.png" alt="Vibe Coding 2026 — Essentials" width="420">
 </p>
 
-Sách miễn phí, tiếng Việt, dành cho người làm trong ngành IT nhưng **không viết code
-hàng ngày** — Tester/QA, Project Manager, Business Analyst — muốn hiểu và chỉ đạo
-được AI coding thay vì chỉ ngồi ngoài nhìn.
+Sách miễn phí, tiếng Việt, dành cho người làm trong ngành IT nhưng **không viết code hàng ngày** — Tester/QA, Project Manager, Business Analyst — muốn hiểu và chỉ đạo được AI coding thay vì chỉ ngồi ngoài nhìn.
 
 **20 chương · 7 phần · 3 phụ lục · 54 hình minh họa**
 
@@ -35,14 +33,10 @@ hàng ngày** — Tester/QA, Project Manager, Business Analyst — muốn hiểu
 
 Nói trước để bạn không mất thời gian:
 
-- **Không** hướng dẫn thao tác từng bước trên một công cụ cụ thể. Không có ảnh chụp
-  giao diện, không có "bấm vào nút ở góc phải".
-- **Không** có bảng giá, hạn mức free tier, hay so sánh công cụ cập nhật liên tục.
-  Những thứ này lỗi thời trong vài tháng; chúng nằm ở trang
-  [Đề xuất công cụ](manuscript/de-xuat-cong-cu.md) và được cập nhật riêng.
+- **Không** hướng dẫn thao tác từng bước trên một công cụ cụ thể. Không có ảnh chụp giao diện, không có "bấm vào nút ở góc phải".
+- **Không** có bảng giá, hạn mức free tier, hay so sánh công cụ cập nhật liên tục. Những thứ này lỗi thời trong vài tháng; chúng nằm ở trang [Đề xuất công cụ](manuscript/de-xuat-cong-cu.md) và được cập nhật riêng.
 
-Lý do của lựa chọn này: phần lỗi thời nhanh nhất của một cuốn sách kỹ thuật là phần
-mô tả giao diện phần mềm. Cắt nó đi, phần còn lại dùng được lâu hơn nhiều.
+Lý do của lựa chọn này: phần lỗi thời nhanh nhất của một cuốn sách kỹ thuật là phần mô tả giao diện phần mềm. Cắt nó đi, phần còn lại dùng được lâu hơn nhiều.
 
 ## Nội dung
 
@@ -62,18 +56,13 @@ Mục lục đầy đủ ở [mucluc.md](mucluc.md).
 ## Kèm theo sách
 
 - [templates/](templates/) — mẫu PRD, rules file, `.gitignore` dùng được luôn
-- [manuscript/de-xuat-cong-cu.md](manuscript/de-xuat-cong-cu.md) — cách chọn công cụ,
-  cập nhật độc lập với sách
+- [manuscript/de-xuat-cong-cu.md](manuscript/de-xuat-cong-cu.md) — cách chọn công cụ, cập nhật độc lập với sách
 
 ## Đóng góp
 
-Mọi đóng góp & góp ý thì bạn có thể gửi [Pull Requests](../../pulls) hoặc
-[Issues](../../issues) trực tiếp trên repo này. Hoặc bạn có thể liên hệ theo các
-thông tin ở dưới đây.
+Mọi đóng góp & góp ý thì bạn có thể gửi [Pull Requests](../../pulls) hoặc [Issues](../../issues) trực tiếp trên repo này. Hoặc bạn có thể liên hệ theo các thông tin ở dưới đây.
 
-Thấy lỗi kỹ thuật, số liệu sai, hay chỗ khó hiểu thì đừng ngại mở Issue. Đặc biệt
-hoan nghênh góp ý từ chính đối tượng của sách — nếu bạn là Tester/PM/BA và đọc một
-chương thấy tắc ở đâu, đó là thông tin quý nhất.
+Thấy lỗi kỹ thuật, số liệu sai, hay chỗ khó hiểu thì đừng ngại mở Issue. Đặc biệt hoan nghênh góp ý từ chính đối tượng của sách — nếu bạn là Tester/PM/BA và đọc một chương thấy tắc ở đâu, đó là thông tin quý nhất.
 
 ## Liên hệ
 
@@ -89,12 +78,9 @@ chương thấy tắc ở đâu, đó là thông tin quý nhất.
 
 ## Giấy phép
 
-Nội dung sách: [CC BY-NC-ND 4.0](./LICENSE.md) — miễn phí đọc và chia sẻ cho mục đích
-học tập, **không dùng cho mục đích thương mại**, không phát hành bản đã sửa đổi hay
-bản dịch mà chưa xin phép.
+Nội dung sách: [CC BY-NC-ND 4.0](./LICENSE.md) — miễn phí đọc và chia sẻ cho mục đích học tập, **không dùng cho mục đích thương mại**, không phát hành bản đã sửa đổi hay bản dịch mà chưa xin phép.
 
-Phần code và file trong `templates/`: **MIT** — dùng thoải mái trong dự án của bạn,
-kể cả dự án thương mại.
+Phần code và file trong `templates/`: **MIT** — dùng thoải mái trong dự án của bạn, kể cả dự án thương mại.
 
 © 2026 Tien Le · [fxstudio.dev](https://fxstudio.dev)
 
