@@ -1,14 +1,28 @@
 # Giấy phép
 
+    SPDX-License-Identifier: CC-BY-NC-ND-4.0 AND MIT
+
 **Vibe Coding 2026 — Essentials**
 © 2026 Tien Le
 
-Tác phẩm này được phát hành dưới giấy phép
+| Phần | Giấy phép |
+|---|---|
+| Nội dung sách — văn bản, hình minh họa, cấu trúc (`manuscript/`, PDF, EPUB) | **CC BY-NC-ND 4.0** |
+| Code mẫu trong sách và file trong `templates/` | **MIT** — nguyên văn ở [`templates/LICENSE`](templates/LICENSE) |
+
+Nội dung sách được phát hành dưới giấy phép
 **Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International
 (CC BY-NC-ND 4.0)**.
 
 Toàn văn giấy phép: https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode.vi
 Bản tóm tắt dễ đọc: https://creativecommons.org/licenses/by-nc-nd/4.0/deed.vi
+
+> **Vì sao GitHub không hiện tên giấy phép ở thanh About.** Bộ dò giấy phép của GitHub
+> chỉ nhận ba giấy phép họ Creative Commons: `CC0-1.0`, `CC-BY-4.0` và `CC-BY-SA-4.0`.
+> Các biến thể **NC** (phi thương mại) và **ND** (không phái sinh) không nằm trong danh
+> sách đó, nên GitHub luôn báo `NOASSERTION` bất kể file này viết thế nào. Đây là giới
+> hạn hiển thị của GitHub, không phải thiếu sót của giấy phép — dòng SPDX ở đầu file là
+> dạng máy đọc được dành cho các công cụ quét giấy phép.
 
 ---
 
@@ -44,3 +58,7 @@ lời có thể là "được", nhưng cần hỏi trước.
 **Phần code trong sách** (đoạn code mẫu, file trong `templates/`) được cấp phép riêng
 theo **MIT** để bạn dùng thoải mái trong dự án của mình, kể cả dự án thương mại.
 Giới hạn NC/ND ở trên chỉ áp cho phần nội dung sách (văn bản, hình minh họa, cấu trúc).
+
+Nguyên văn giấy phép MIT nằm ở [`templates/LICENSE`](templates/LICENSE). MIT yêu cầu
+giữ lại dòng bản quyền và permission notice khi bạn copy code đi — bản nguyên văn để ở
+đó chính là để bạn có cái mà copy theo.
