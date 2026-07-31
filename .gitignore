@@ -1,0 +1,14 @@
+# ── OS / editor ──────────────────────────────────────────────
+.DS_Store
+._*
+Thumbs.db
+*.swp
+*~
+.vscode/
+.idea/
+
+# ── Chú ý ────────────────────────────────────────────────────
+# PDF và EPUB KHÔNG nằm trong repo — chúng là asset của GitHub Release
+# (giao diện web chặn file > 25 MB, và giữ ebook trong git history làm
+# repo phình lên mỗi lần cập nhật). Bìa cover.png thì được track vì
+# README nhúng nó.
